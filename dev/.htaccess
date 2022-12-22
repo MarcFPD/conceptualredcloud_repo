@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile /WEBDAV/conceptualredcloud.tk/dev/.htpasswd
+Require valid-user
